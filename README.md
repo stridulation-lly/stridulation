@@ -8,25 +8,31 @@ This repository is a multimodal dataset for ant stridulation behavior research, 
 
 Folder	Description	Sample Features
 
-·github.queen/	Queen stridulation data	Attack behavior, trap situations, and example videos
+github.queen/	Queen stridulation data	Attack behavior, trap situations, and example videos
 
-·github.male/	Male ant stridulation data	Aggressive encounters, trap contexts with spectrograms
+github.male/	Male ant stridulation data	Aggressive encounters, trap contexts with spectrograms
 
-·github.worker/	Worker stridulation data	Attack behavior, trap situations (samples 1-30, 31-54), responses to queen stridulation
+github.worker/	Worker stridulation data	Attack behavior, trap situations (samples 1-30, 31-54), responses to queen stridulation
 
-·github.gyne/	Virgin queen (gyne) data	Sound behavior of unmated reproductives
+github.gyne/	Virgin queen (gyne) data	Sound behavior of unmated reproductives
 
-·github.dealate_gyne/	Dealated queen data	Acoustic characteristics of post-mating, de-winged individuals
+github.dealate_gyne/	Dealated queen data	Acoustic characteristics of post-mating, de-winged individuals
 
 
 2.Behavioral Category Folders
+
 github.aggressive/ - Recordings related to aggressive behavior
+
 github.submissive/ - Submissive/yielding behavior recordings
+
 github.stop_fight/ - Recordings from conflict de-escalation situations
+
 github.miss_attack/ - Recordings from failed attack attempts
+
 github.playback/ - Sound playback experiment data
 
 3. Metadata File
+
 github.xlsx - Experimental metadata table (~19.7KB), containing structured information including sample IDs, experimental conditions, timestamps, and other parameters
 
 Data Format Specifications
