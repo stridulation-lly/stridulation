@@ -76,23 +76,13 @@ bash
 # Clone the full repository
 git clone https://github.com/stridulation-lly/stridulation.git
 
-# Navigate to specific caste data
-cd stridulation/github.worker/
-ls github.worker_trap\(1-30\)/
-
-Recommended Analysis Workflows
-
-    Audio Processing: Use Python's librosa or MATLAB for spectrogram analysis
-    Statistical Comparison: Compare acoustic parameters (dominant frequency, pulse interval, duration) across castes and behavioral contexts (attack vs. trap)
-    Machine Learning: Train caste classifiers or behavior recognition models using spectrogram images
 
 Citation
 If you use this dataset, please cite:
-复制
 
 Stridulation Dataset: Multi-caste acoustic communication in ants
 Repository: https://github.com/stridulation-lly/stridulation
-Contact: stridulation-lly (GitHub)
+Contact: stridulation-lly (GitHub) lliangyu2023@lzu.edu.cn
 
 License and Usage
 This project is publicly available for academic research and follows standard open-source GitHub licensing. Users should adhere to academic integrity principles and acknowledge the data source in published work.
