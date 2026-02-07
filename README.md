@@ -72,7 +72,6 @@ This dataset specifically focuses on acoustic differences between trap situation
 Usage Guide
 Data Access
 bash
-复制
 
 # Clone the full repository
 git clone https://github.com/stridulation-lly/stridulation.git
