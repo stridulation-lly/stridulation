@@ -2,7 +2,7 @@
 
 ***Project Overview***
 
-This repository is a multimodal dataset for ant stridulation behavior research, designed for analyzing sound signal characteristics across different castes and behavioral contexts. The dataset contains high-resolution audio recordings, spectrogram visualizations, and video examples, providing foundational data for studies in insect acoustic communication, social insect behavior, and bioacoustics.
+This repository is a multimodal dataset for ant stridulation behavior research, designed for analyzing sound signal characteristics across different castes and behavioral contexts. The dataset contains high-resolution audio recordings, behaviour example, and video examples, providing foundational data for studies in insect acoustic communication, social insect behavior, and bioacoustics.
 
 1.Caste-Specific Datasets
 
